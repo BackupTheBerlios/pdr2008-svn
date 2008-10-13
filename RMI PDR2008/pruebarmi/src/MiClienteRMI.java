@@ -1,4 +1,3 @@
-package pruebarmi;
 
 public class MiClienteRMI {
 
