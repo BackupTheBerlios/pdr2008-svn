@@ -1,2 +1,5 @@
+<<<<<<< .mine
+juanmi rules=======
 prueba
 eres un askeroso .. perraaaaa
+>>>>>>> .r5
