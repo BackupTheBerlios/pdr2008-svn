@@ -2,4 +2,21 @@
 juanmi rules=======
 prueba
 eres un askeroso .. perraaaaa
+<<<<<<< .mine
+perraaaaa
+
+perraaaaa
+vperraaaaa
+
+perraaaaa
+perraaaaa
+perraaaaa
+perraaaaa
+perraaaaa
+perraaaaa
+perraaaaaperraaaaa
+
+
+=======
 >>>>>>> .r5
+>>>>>>> .r6
